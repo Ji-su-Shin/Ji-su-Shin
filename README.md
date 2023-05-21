@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome!&fontSize=50)
 
 
+-----------------------------
 ✉Email: sjius0506@gmail.com
--------------------------
+
 <!--
 **Ji-su-Shin/Ji-su-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
