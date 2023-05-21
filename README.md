@@ -1,15 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
 
-반갑습니다! 
-백엔드를 공부하고 있는 신지수 입니다.
-
-
-
-##### ✉ 연락처
+✉Email: sjius0506@gmail.com
 -------------------------
-Email: sjius0506@gmail.com
-
 <!--
 **Ji-su-Shin/Ji-su-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
